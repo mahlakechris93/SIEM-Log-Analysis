@@ -215,7 +215,7 @@ By using this software, you agree to use it ethically and legally. The developer
 
 ## 🆘 Support
 
-- 📧 **Email**: [security@example.com](mailto:security@example.com)
+- 📧 **Email**: [security@example.com](mailto:mahlakechris93@gmail.com)
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/mahlakechris93/SIEM-Log-Analysis/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/mahlakechris93/SIEM-Log-Analysis/discussions)
 - 📖 **Documentation**: [Wiki](https://github.com/mahlakechris93/SIEM-Log-Analysis/wiki)
